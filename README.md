@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/chrisgainesdata/machine-learning-api.svg?style=svg)](https://circleci.com/gh/chrisgainesdata/machine-learning-api)
 
 ## Project Overview
 

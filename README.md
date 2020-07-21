@@ -8,6 +8,12 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 ## Setup the Environment
 
+* Clone Repo
+
+* <code> git clone git@github.com:chrisgaineslabs/machine-learning-api.git </code>
+
+## Setup the Environment
+
 * Create a virtualenv and activate it
 * Run `make install` to install the necessary dependencies
 

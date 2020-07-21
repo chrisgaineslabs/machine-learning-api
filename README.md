@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/chrisgainesdata/machine-learning-api.svg?style=svg)](https://circleci.com/gh/chrisgainesdata/machine-learning-api)
+[![CircleCI](https://circleci.com/gh/chrisgaineslabs/machine-learning-api.svg?style=svg)](https://circleci.com/gh/chrisgaineslabs/machine-learning-api)
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 * Clone Repo
 
-* <code> git clone git@github.com:chrisgaineslabs/machine-learning-api.git </code>
+<code> git clone git@github.com:chrisgaineslabs/machine-learning-api.git </code>
 
 ## Setup the Environment
 

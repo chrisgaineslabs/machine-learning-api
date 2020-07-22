@@ -22,9 +22,9 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 <code> source .api/bin/activate </code> 
 
-* Clone Repo
+* Clone Repo and cd into source code directory
 
-<code> git clone https://github.com/chrisgaineslabs/machine-learning-api.git api</code>
+<code> git clone https://github.com/chrisgaineslabs/machine-learning-api.git api && cd api</code>
 
 * Run `make install` to install the necessary dependencies
 

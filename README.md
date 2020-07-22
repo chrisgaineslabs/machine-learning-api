@@ -14,7 +14,9 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 <code> sudo yum update -y </code>
 
-<code> sudo yum install -y python3 python3-virtualenv python3-pip</code>
+<code> sudo yum install -y python3 python3-virtualenv python3-pip </code>
+
+<code> sudo yum install -y git </code>
 
 * Create a virtualenv and activate it
 

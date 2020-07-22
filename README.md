@@ -26,7 +26,7 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 <code> git clone https://github.com/chrisgaineslabs/machine-learning-api.git api && cd api</code>
 
-* Run `make install` to install the necessary dependencies
+* Run `make install` to install virtual env dependencies
 
 ### Running `app.py`
 

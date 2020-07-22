@@ -32,11 +32,17 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 ### Running `app.py`
 
-1. Standalone:  `python app.py`
-2. Run in Docker:  `./run_docker.sh`
-3. Run in Kubernetes:  `./run_kubernetes.sh`
+1. Run in Docker:  
+<code> sudo ./run_docker.sh </code>
+* From a new tab in the terminal run `./make_prediction.sh`
 
-`make_prediction.sh`
+2. Run in Kubernetes:  
+<code> sudo ./run_kubernetes.sh </code>
+
+<code> ./make_prediction.sh </code>
+
+
+
 
 
 ## Please Star and Watch this repo for updates including connecting to AWS environment, connecting application to a custom machine learning algorithm, and using circleci to deploy to a production environment.

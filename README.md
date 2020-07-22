@@ -8,6 +8,8 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 ## Setup the Environment
 
+# These steps were verified with a Amazon Linux 2 AMI (HVM), SSD Volume Type - ami-08f3d892de259504d (64-bit x86) image in AWS EC2.
+
 * Clone Repo
 
 <code> git clone git@github.com:chrisgaineslabs/machine-learning-api.git </code>
@@ -22,3 +24,6 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 1. Standalone:  `python app.py`
 2. Run in Docker:  `./run_docker.sh`
 3. Run in Kubernetes:  `./run_kubernetes.sh`
+
+
+## Please Star and Watch this repo for updates including connecting to AWS, connecting to a custom machine learning algorithm, and using circleci to deploy to a production environment.

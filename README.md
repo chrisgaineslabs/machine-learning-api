@@ -14,7 +14,7 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 <code> sudo yum update -y </code>
 
-<code> sudo yum install -y python36 python36-virtualenv python36-pip git </code>
+<code> sudo yum install -y python36 python36-virtualenv python36-pip git docker</code>
 
 * Create a virtualenv and activate it
 
@@ -28,11 +28,17 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 * Run `make install` to install virtual env dependencies
 
+
+
+sudo service docker start
+
 ### Running `app.py`
 
 1. Standalone:  `python app.py`
 2. Run in Docker:  `./run_docker.sh`
 3. Run in Kubernetes:  `./run_kubernetes.sh`
 
+make_prediction.sh
 
-## Please Star and Watch this repo for updates including connecting to AWS, connecting to a custom machine learning algorithm, and using circleci to deploy to a production environment.
+
+## Please Star and Watch this repo for updates including connecting to AWS environment, connecting application to a custom machine learning algorithm, and using circleci to deploy to a production environment.

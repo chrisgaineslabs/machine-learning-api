@@ -28,9 +28,7 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 * Run `make install` to install virtual env dependencies
 
-
-
-sudo service docker start
+* Start Docker with `sudo service docker start`
 
 ### Running `app.py`
 

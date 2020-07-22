@@ -38,7 +38,7 @@ sudo service docker start
 2. Run in Docker:  `./run_docker.sh`
 3. Run in Kubernetes:  `./run_kubernetes.sh`
 
-make_prediction.sh
+`make_prediction.sh`
 
 
 ## Please Star and Watch this repo for updates including connecting to AWS environment, connecting application to a custom machine learning algorithm, and using circleci to deploy to a production environment.

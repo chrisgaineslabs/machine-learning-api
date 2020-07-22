@@ -10,6 +10,14 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 * These steps were verified with a Amazon Linux 2 AMI (HVM), SSD Volume Type - ami-08f3d892de259504d (64-bit x86) image in AWS EC2.
 
+## Setup the Environment
+
+* Create a virtualenv and activate it
+
+<code> python -m venv \~/.api </code> 
+
+<code> source \~/.devops/bin/activate </code> 
+
 * Clone Repo
 
 <code> git clone https://github.com/chrisgaineslabs/machine-learning-api.git </code>

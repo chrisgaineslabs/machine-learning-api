@@ -14,7 +14,7 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 <code> sudo yum update -y </code>
 
-<code> sudo yum install -y python34 python34-virtualenv python34-pip git </code>
+<code> sudo yum install -y python37 python37-virtualenv python37-pip git </code>
 
 * Create a virtualenv and activate it
 

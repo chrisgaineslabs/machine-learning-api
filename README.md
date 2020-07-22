@@ -12,6 +12,10 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 ## Setup the Environment
 
+* Install Dependicies 
+
+<code> sudo yum install python36 python36-virtualenv python36-pip </code>
+
 * Create a virtualenv and activate it
 
 <code> python -m venv \~/.api </code> 

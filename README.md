@@ -8,7 +8,7 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 ## Setup the Environment
 
-# These steps were verified with a Amazon Linux 2 AMI (HVM), SSD Volume Type - ami-08f3d892de259504d (64-bit x86) image in AWS EC2.
+* These steps were verified with a Amazon Linux 2 AMI (HVM), SSD Volume Type - ami-08f3d892de259504d (64-bit x86) image in AWS EC2.
 
 * Clone Repo
 

@@ -18,7 +18,7 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 * Create a virtualenv and activate it
 
-<code> python3 -m venv \~/.api </code> 
+<code> python -m venv \~/.api </code> 
 
 <code> source \~/.devops/bin/activate </code> 
 

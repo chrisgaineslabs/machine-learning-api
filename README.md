@@ -24,7 +24,7 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 * Clone Repo
 
-<code> git clone https://github.com/chrisgaineslabs/machine-learning-api.git </code>
+<code> git clone https://github.com/chrisgaineslabs/machine-learning-api.git api</code>
 
 * Run `make install` to install the necessary dependencies
 

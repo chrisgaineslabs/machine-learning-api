@@ -18,9 +18,9 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 * Create a virtualenv and activate it
 
-<code> python3 -m venv \~/.api </code> 
+<code> python3 -m venv .api </code> 
 
-<code> source \~/.api/bin/activate </code> 
+<code> source \\\~/.api/bin/activate </code> 
 
 * Clone Repo
 

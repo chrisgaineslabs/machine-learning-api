@@ -14,13 +14,15 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 * Install Dependicies 
 
-<code> sudo yum install python36 python36-virtualenv python36-pip </code>
+<code> sudo yum update -y </code>
+
+<code> sudo yum install -y python3 python3-virtualenv python3-pip</code>
 
 * Create a virtualenv and activate it
 
-<code> python -m venv \~/.api </code> 
+<code> python3 -m venv \~/.api </code> 
 
-<code> source \~/.devops/bin/activate </code> 
+<code> source \~/.api/bin/activate </code> 
 
 * Clone Repo
 
@@ -32,7 +34,7 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 <code> python -m venv \~/.api </code> 
 
-<code> source \~/.devops/bin/activate </code> 
+<code> source \~/.api/bin/activate </code> 
 
 * Run `make install` to install the necessary dependencies
 

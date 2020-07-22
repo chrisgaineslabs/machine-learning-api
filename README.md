@@ -8,13 +8,13 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 ## Setup the Environment
 
-* These steps were verified with a Amazon Linux 2 AMI (HVM), SSD Volume Type - ami-08f3d892de259504d (64-bit x86) image in AWS EC2.
+* These steps were verified with a Amazon Linux AMI 2018.03.0 (HVM), SSD Volume Type - ami-0e9089763828757e1 image in AWS EC2.
 
 * Install Dependicies 
 
 <code> sudo yum update -y </code>
 
-<code> sudo yum install -y python3 python3-virtualenv python3-pip </code>
+<code> sudo yum install -y python34 python34-virtualenv python34-pip </code>
 
 <code> sudo yum install -y git </code>
 

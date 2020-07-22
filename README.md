@@ -10,7 +10,7 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 * These steps were verified with a Amazon Linux AMI 2018.03.0 (HVM), SSD Volume Type - ami-0e9089763828757e1 image in AWS EC2.
 
-* Install Dependicies 
+* Install host server dependencies
 
 <code> sudo yum update -y </code>
 

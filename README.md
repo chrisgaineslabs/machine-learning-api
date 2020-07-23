@@ -8,7 +8,7 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 ## Setup the Environment
 
-* These steps were verified with a Amazon Linux AMI 2018.03.0 (HVM), SSD Volume Type - ami-0e9089763828757e1 image in AWS EC2.
+* These steps were verified with an Amazon Linux AMI 2018.03.0 (HVM), SSD Volume Type - ami-0e9089763828757e1 image in AWS EC2.
 
 * Install host server dependencies
 
@@ -47,4 +47,4 @@ Pleas install Kubernetes following the official documentation `https://kubernete
 
 
 
-Please Star and Watch this repo for updates including connecting to AWS environment, installing Kubernetes, connecting application to a custom machine learning algorithm, having infrastucture as code with dependencies installed, and using circleci to deploy to a production environment.
+Please Star and Watch this repo for updates including connecting to AWS environment, installing Kubernetes, connecting application to a custom machine learning algorithm, having infrastructure as code with dependencies installed, and using circleci to deploy to a production environment.

@@ -16,6 +16,8 @@ This project contains a pre-trained, `sklearn` model that has been trained to pr
 
 <code> sudo yum install -y python36 python36-virtualenv python36-pip git docker</code>
 
+Pleas install Kubernetes following the official documentation `https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-on-linux`
+
 * Create a virtualenv and activate it
 
 <code> python3 -m venv .api </code> 

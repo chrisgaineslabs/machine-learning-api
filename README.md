@@ -47,4 +47,4 @@ Pleas install Kubernetes following the official documentation `https://kubernete
 
 
 
-## Please Star and Watch this repo for updates including connecting to AWS environment, connecting application to a custom machine learning algorithm, and using circleci to deploy to a production environment.
+# Please Star and Watch this repo for updates including connecting to AWS environment, installing Kubernetes, connecting application to a custom machine learning algorithm, having infrastucture as code with dependencies installed, and using circleci to deploy to a production environment.

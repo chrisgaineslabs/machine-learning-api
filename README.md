@@ -41,7 +41,7 @@ Pleas install Kubernetes following the official documentation `https://kubernete
 2. Run in Kubernetes:  
 <code> sudo ./run_kubernetes.sh </code>
 
-<code> ./make_prediction.sh </code>
+* From a new tab in the terminal run `./make_prediction.sh`
 
 
 
